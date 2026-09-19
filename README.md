@@ -1,4 +1,4 @@
-# Simulasi BBM — Skenario Prioritas Surabaya
+# Simulasi BBM — Comparing Scenario
 
 Repository ini mensimulasikan persediaan BBM kapal, ROB, antrean bunker, dan
 operasi tanker untuk skenario yang memprioritaskan checkpoint Surabaya.
